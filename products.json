@@ -1,0 +1,93 @@
+[
+    {
+      "product": "Kinder Maxi",
+      "price": 10,
+      "description": "En deilig sjokoladebit",
+      "image": "kinder-maxi.webp"
+    },
+    {
+      "product": "McDonaldstur med pappa",
+      "price": 50,
+      "description": "En hyggelig tur til McDonald's med pappa",
+      "image": "mcdonalds.webp"
+    },
+    {
+      "product": "Burger King-tur med pappa",
+      "price": 50,
+      "description": "En koselig tur til Burger King med pappa",
+      "image": "burger-king.webp"
+    },
+    {
+      "product": "Kino med pappa",
+      "price": 100,
+      "description": "Se en spennende film på kino sammen med pappa",
+      "image": "kino.webp"
+    },
+    {
+      "product": "Filmkveld med pappa i kjelleren",
+      "price": 20,
+      "description": "Ha en avslappende filmkveld med pappa hjemme i kjelleren",
+      "image": "filmkveld.webp"
+    },
+    {
+      "product": "Spille 3 runder kort med pappa",
+      "price": 10,
+      "description": "Tre runder med spennende kortspill med pappa",
+      "image": "kortspill.webp"
+    },
+    {
+      "product": "Spille Fortnite med pappa",
+      "price": 10,
+      "description": "Ha det gøy med pappa i Fortnite",
+      "image": "fortnite.webp"
+    },
+    {
+      "product": "Skogstur med pappa",
+      "price": 20,
+      "description": "En opplevelsesrik tur i skogen med pappa",
+      "image": "skogstur.webp"
+    },
+    {
+      "product": "Farmandstredet med pappa",
+      "price": 30,
+      "description": "En dag med pappa på Farmandstredet kjøpesenter",
+      "image": "farmandstredet.webp"
+    },
+    {
+      "product": "Litago-melk",
+      "price": 10,
+      "description": "En kald og god Litago-melk",
+      "image": "litago.webp"
+    },
+    {
+      "product": "Spille brettspill med pappa",
+      "price": 20,
+      "description": "Spennende brettspill med pappa hjemme",
+      "image": "brettspill.webp"
+    },
+    {
+      "product": "Besøke farmor med pappa",
+      "price": 10,
+      "description": "En koselig visitt til farmor sammen med pappa",
+      "image": "farmor.webp"
+    },
+    {
+      "product": "Bobiltur med pappa alene",
+      "price": 100,
+      "description": "En eventyrlig bobiltur med pappa",
+      "image": "bobiltur.webp"
+    },
+    {
+      "product": "Bowling med pappa",
+      "price": 100,
+      "description": "Morsom bowling sammen med pappa",
+      "image": "bowling.webp"
+    },
+    {
+      "product": "Biljard med pappa",
+      "price": 100,
+      "description": "En spennende runde med biljard med pappa",
+      "image": "biljard.webp"
+    }
+  ]
+  
